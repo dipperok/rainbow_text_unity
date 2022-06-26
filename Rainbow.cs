@@ -6,7 +6,7 @@ using UnityEngine.UI;
 public class Rainbow : MonoBehaviour
 {
     [SerializeField] private Text textForRainbow;
-    [SerializeField] private float rainbowSpeed;
+    [SerializeField] private float rainbowSpeed = 0.05;
     private float colorR;
     private float colorG;
     private float colorB;
