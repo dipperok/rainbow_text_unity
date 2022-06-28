@@ -1,1 +1,1 @@
-# rainbow_text_unity
+# Rainbow effect for text (unity)
